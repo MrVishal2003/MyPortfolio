@@ -40,3 +40,7 @@ This portfolio uses **EmailJS** for the contact form functionality. Follow these
 5. **Update the Code**:
    - Navigate to `components/Contacts.jsx` in the project and locate **line 56**. Update the parameters of `emailjs.send()` with your IDs to make the form work.
 
+## Contact
+For any queries, feel free to reach out:
+- **Email:** hadiyal123vvv@gmail.com
+- **LinkedIn:** [Vishal Hadiyal](https://www.linkedin.com/in/vishal-hadiyal/)
