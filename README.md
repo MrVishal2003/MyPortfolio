@@ -39,7 +39,28 @@ This portfolio uses **EmailJS** for the contact form functionality. Follow these
 
 5. **Update the Code**:
    - Navigate to `components/Contacts.jsx` in the project and locate **line 56**. Update the parameters of `emailjs.send()` with your IDs to make the form work.
+  
+### Steps to Run the Project
 
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/mern-hotel-management.git
+   cd mern-hotel-management
+   
+2. Install dependencies for frontend:
+   ```sh
+   cd /frontend
+   npm install
+   
+3. Start the frontend:
+   ```sh
+   cd frontend
+   npm run dev
+   ```
+6. Open the application in your browser:
+   ```
+   http://localhost:3000
+   ```
 ## Contact
 For any queries, feel free to reach out:
 - **Email:** hadiyal123vvv@gmail.com
