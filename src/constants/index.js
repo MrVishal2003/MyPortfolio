@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project1.png";
 import project2 from "../assets/projects/project2.png";
 import project3 from "../assets/projects/project3.png";
 import project4 from "../assets/projects/project4.png";
+import project4 from "../assets/projects/project5.png";
 
 export const HERO_CONTENT = `I am a passionate Computer Engineering student with a strong academic background and a drive for web development. I specialize in building dynamic and responsive web applications. Join me as I showcase my projects and experiences, demonstrating my commitment to innovation and continuous learning.`;
 
@@ -84,6 +85,15 @@ export const PROJECTS = [
     technologies: ["React", "TailwindCSS"],
     github: "https://github.com/MrVishal2003/React-Recipe", // Replace with actual GitHub link
     live: "https://react-recipe-vert.vercel.app/", // Replace with actual deployment link
+},
+{
+  title: "MERN Movie Rating App",
+  image: project5, // Replace with actual image import or path
+  description:
+    "Built a full-stack movie rating app using the MERN stack, allowing users to browse, rate, and review movies. Features include user authentication, review system, and a responsive UI.",
+  technologies: ["MongoDB", "Express", "React", "Node.js", "TailwindCSS"],
+  github: "https://github.com/MrVishal2003/Movie-Rating", // Replace with actual GitHub link
+  live: "https://movie-rating-flax.vercel.app/", // Replace with actual deployment link
 }
 
 ];
