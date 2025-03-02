@@ -1,4 +1,4 @@
-import project1 from "../assets/projects/project1.png";
+// import project1 from "../assets/projects/project1.png";
 import project2 from "../assets/projects/project2.png";
 import project3 from "../assets/projects/project3.png";
 import project4 from "../assets/projects/project4.png";
@@ -59,15 +59,15 @@ export const SOFT_SKILLS = [
 ];
 
 export const PROJECTS = [
-  {
-    title: "To-Do List Application",
-    image: project1,
-    description:
-      "Built a simple web application for managing tasks using React. Implemented CRUD functionality with React state.",
-    technologies: ["React", "JavaScript", "CSS"],
-    github: "https://github.com/MrVishal2003/Todo-App",
-    live: "https://todo-app-gamma-blue-99.vercel.app/",
-  },
+  // {
+  //   title: "To-Do List Application",
+  //   image: project1,
+  //   description:
+  //     "Built a simple web application for managing tasks using React. Implemented CRUD functionality with React state.",
+  //   technologies: ["React", "JavaScript", "CSS"],
+  //   github: "https://github.com/MrVishal2003/Todo-App",
+  //   live: "https://todo-app-gamma-blue-99.vercel.app/",
+  // },
   {
     title: "Hotel Management System",
     image: project2,
