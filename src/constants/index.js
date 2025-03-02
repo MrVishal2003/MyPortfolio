@@ -84,8 +84,16 @@ export const PROJECTS = [
     technologies: ["React", "TailwindCSS"],
     github: "https://github.com/MrVishal2003/React-Recipe", // Replace with actual GitHub link
     live: "https://react-recipe-vert.vercel.app/", // Replace with actual deployment link
+},
+{
+  title: "MERN Movie Rating App",
+  image: project4, // Replace with actual image import or path
+  description:
+    "Built a full-stack movie rating app using the MERN stack, allowing users to browse, rate, and review movies. Features include user authentication, review system, and a responsive UI.",
+  technologies: ["MongoDB", "Express", "React", "Node.js", "TailwindCSS"],
+  github: "https://github.com/MrVishal2003/MERN-Movie-Rating", // Replace with actual GitHub link
+  live: "https://mern-movie-rating.vercel.app/", // Replace with actual deployment link
 }
-
 ];
 
 export const CERTIFICATIONS = [
