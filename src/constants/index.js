@@ -94,6 +94,7 @@ export const PROJECTS = [
   github: "https://github.com/MrVishal2003/Movie-Rating", // Replace with actual GitHub link
   live: "https://movie-rating-flax.vercel.app/", // Replace with actual deployment link
 }
+
 ];
 
 export const CERTIFICATIONS = [
