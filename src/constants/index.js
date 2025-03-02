@@ -70,7 +70,7 @@ export const PROJECTS = [
   },
   {
     title: "Hotel Management System",
-    image: project3,
+    image: project2,
     description:
       "Created a web-based hotel management system to handle reservations and room management, featuring an admin dashboard for efficient data visualization.",
     technologies: ["React", "MongoDB", "Node.js"],
@@ -79,7 +79,7 @@ export const PROJECTS = [
   },
   {
     title: "React Recipe App",
-    image: project4, // Replace with actual image import or path
+    image: project3, // Replace with actual image import or path
     description:
       "Developed a modern recipe management app with React, allowing users to browse, search, and save their favorite recipes with an intuitive UI.",
     technologies: ["React", "TailwindCSS"],
@@ -88,7 +88,7 @@ export const PROJECTS = [
 },
 {
   title: "MERN Movie Rating App",
-  image: project5, // Replace with actual image import or path
+  image: project4, // Replace with actual image import or path
   description:
     "Built a full-stack movie rating app using the MERN stack, allowing users to browse, rate, and review movies. Features include user authentication, review system, and a responsive UI.",
   technologies: ["MongoDB", "Express", "React", "Node.js", "TailwindCSS"],
