@@ -32,7 +32,7 @@ const Footer = () => {
 
         <div className="flex justify-center space-x-6 text-white mb-6">
           <a
-            href="https://www.linkedin.com/in/vishal-hadiyal/"
+            href="https://www.linkedin.com/in/vishal-hadiyal"
             target="_blank"
             rel="noopener noreferrer"
           >

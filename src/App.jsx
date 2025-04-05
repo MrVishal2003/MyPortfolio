@@ -4,13 +4,13 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import About from './components/About'
 import Technologies from './components/Technologies'
-import Experience from './components/Experience'
+// import Experience from './components/Experience'
 import './index.css'
 import Projects from './components/Projects'
 import Contact from './components/Contact';
 import Footer from './components/Footer'
 import Education from './components/Education'
-import Blogs from './components/Blogs'
+// import Blogs from './components/Blogs'
 import { Analytics } from "@vercel/analytics/react"
 
 function App() {
@@ -40,7 +40,7 @@ function App() {
           <Route path="/technologies" element={<Technologies />} />
           {/* <Route path="/experience" element={<Experience />} /> */}
           <Route path="/projects" element={<Projects />} />
-          <Route path="/blogs" element={<Blogs />} />
+          {/* <Route path="/blogs" element={<Blogs />} /> */}
           <Route path="/contact" element={<Contact />} />
         </Routes>
         <Footer/>

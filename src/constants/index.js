@@ -1,8 +1,6 @@
 // import project1 from "../assets/projects/project1.png";
 import project2 from "../assets/projects/project2.png";
 import project3 from "../assets/projects/project3.png";
-import project4 from "../assets/projects/project4.png";
-
 
 export const HERO_CONTENT = `I am a passionate Computer Engineering student with a strong academic background and a drive for web development. I specialize in building dynamic and responsive web applications. Join me as I showcase my projects and experiences, demonstrating my commitment to innovation and continuous learning.`;
 
