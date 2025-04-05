@@ -59,15 +59,7 @@ export const SOFT_SKILLS = [
 ];
 
 export const PROJECTS = [
-  // {
-  //   title: "To-Do List Application",
-  //   image: project1,
-  //   description:
-  //     "Built a simple web application for managing tasks using React. Implemented CRUD functionality with React state.",
-  //   technologies: ["React", "JavaScript", "CSS"],
-  //   github: "https://github.com/MrVishal2003/Todo-App",
-  //   live: "https://todo-app-gamma-blue-99.vercel.app/",
-  // },
+ 
   {
     title: "Hotel Management System",
     image: project2,
@@ -85,15 +77,6 @@ export const PROJECTS = [
     technologies: ["React", "TailwindCSS"],
     github: "https://github.com/MrVishal2003/React-Recipe", 
     live: "https://react-recipe-vert.vercel.app/", 
-},
-{
-  title: "Movie Rating",
-  image: project4, 
-  description:
-    "Built a full-stack movie rating app using the MERN stack, allowing users to browse, rate, and review movies. Features include user authentication, review system, and a responsive UI.",
-  technologies: ["MongoDB", "Express", "React", "Node.js", "TailwindCSS"],
-  github: "https://github.com/MrVishal2003/Movie-Rating", 
-  live: "https://movie-rating-flax.vercel.app/"
 }
 
 ];
